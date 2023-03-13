@@ -164,4 +164,3 @@ En cuanto al software que hemos utilizado:
 - VisualStudio: Manejo de código.
 - AWS: Alojamiento de instancias.
 
-16
